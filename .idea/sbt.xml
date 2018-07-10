@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="E:\ideaWork\testplay\play-java-starter-example\sbt-dist\bin\sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="D:/jdk/jdk8" />
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Dsbt.repository.config=‪C:\Users\lenovo\.sbt\repo.properties -Dsbt.ivy.home=C:\Users\lenovo\.ivy2 -Dsbt.boot.directory=C:\Users\lenovo\.sbt\boot\ -Dsbt.boot.directory=C:\Users\lenovo\.sbt" />
+  </component>
+</project>

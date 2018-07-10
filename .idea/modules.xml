@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudParentMaven.iml" filepath="$PROJECT_DIR$/cloudParentMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudeureka/cloudeureka.iml" filepath="$PROJECT_DIR$/cloudeureka/cloudeureka.iml" />
+    </modules>
+  </component>
+</project>
